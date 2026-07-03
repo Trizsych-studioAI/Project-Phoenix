@@ -30,6 +30,6 @@ Trizsych
 - [x] Setup GitHub
 - [x] Setup VS Code
 - [x] HTML Dasar
-- [ ] CSS
+- [x] CSS Dasar
 - [ ] JavaScript
 - [ ] Python
